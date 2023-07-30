@@ -88,5 +88,5 @@ FEEDBACK AND APPROVAL
 DEPLOYMENT
 	The compilation team put the work together in the most efficient way possible.
 	The team combined individual codes and made them come out as one piece.
-	The team was then able to run a working code.
+	The team was then able to run a working .
 
